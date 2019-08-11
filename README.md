@@ -14,6 +14,9 @@
 
 - node.js
 
+- GO
+[996是你们的福报年轻不加班什么时候才加班](http://)
+
 ## Frontend
 
 - React, AntD
@@ -28,6 +31,7 @@
 ## Mobility
 
 - Flutter
+[再也不喝一口碳酸饮料](http://)
 
 - iOS
 
