@@ -1,5 +1,8 @@
 # Global Unicorn List App Project
 
+## Think Big, Start Small, Move Fast!
+## NEVER STOP EXPLORING!
+
 ## Backend
 
 - MongoDB + Python 
