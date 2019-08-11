@@ -1,28 +1,30 @@
-# Global Unicorn OData Service 
+# Global Unicorn List App Project
 
-### Service Metadata
-https://5fjjm2jmalitztof-unicorn2-srv.cfapps.eu10.hana.ondemand.com/odata/v2/CatalogService/$metadata
+## Backend
 
-# XML
-### Query all Unicorns:
-https://5fjjm2jmalitztof-unicorn2-srv.cfapps.eu10.hana.ondemand.com/odata/v2/CatalogService/Unicorns
+- MongoDB + Python 
+[元気くんの影](http://github.com)
 
-### Funding Rounds:
-https://5fjjm2jmalitztof-unicorn2-srv.cfapps.eu10.hana.ondemand.com/odata/v2/CatalogService/Unicorns(guid'46262d7a-0fe3-11e8-b642-0ed5f89f718b')/funding_rounds
 
-### Investor Info:
-https://5fjjm2jmalitztof-unicorn2-srv.cfapps.eu10.hana.ondemand.com/odata/v2/CatalogService/FundingRounds(guid'f57c7735-3064-87f0-5989-bbf868592d5c')?$expand=investors,lead_investor
+- SAP HANA + Core Data Service
+[RANG](https://github.com/rangwei/unicorn-hana)
 
-# JSON 
+- node.js
 
-### Query all Unicorns:
-https://5fjjm2jmalitztof-unicorn2-srv.cfapps.eu10.hana.ondemand.com/odata/v2/CatalogService/Unicorns?$format=json
+## Frontend
 
-### Funding Rounds:
-https://5fjjm2jmalitztof-unicorn2-srv.cfapps.eu10.hana.ondemand.com/odata/v2/CatalogService/Unicorns(guid'46262d7a-0fe3-11e8-b642-0ed5f89f718b')/funding_rounds?$format=json
+- React, AntD
 
-### Investor Info:
-https://5fjjm2jmalitztof-unicorn2-srv.cfapps.eu10.hana.ondemand.com/odata/v2/CatalogService/FundingRounds(guid'f57c7735-3064-87f0-5989-bbf868592d5c')?$expand=investors,lead_investor&$format=json
+- Angular
 
+- Vue
+
+- UI5
+
+## Mobility
+
+- Flutter
+
+- iOS
 
 
