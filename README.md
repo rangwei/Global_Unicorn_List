@@ -9,7 +9,7 @@
 
 元気くんの影
 
-[https://github.com/mago960806/unicorn_crunch](https://github.com/mago960806/unicorn_crunch)
+[https://github.com/mago960806/unicorn-python](https://github.com/mago960806/unicorn-python)
 
 ### SAP HANA + Core Data Service
 
