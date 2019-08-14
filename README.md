@@ -72,10 +72,21 @@ RANG
 
 沐风
 
-### iOS
+### Swift
 
 RANG
 
 [https://github.com/rangwei/unicorn-swift](https://github.com/rangwei/unicorn-swift)
+
+### SwiftUI
+
+Jewson
+
+## Testing API:
+
+METHOD | URL | DESCRIPTION
+---|---|---
+GET | http://49.234.230.70:3000/unicorns | Retrieves a list of unicorns
+GET | http://49.234.230.70:3000/unicorns/ByteDance | Retrieves a specific unicorn by NAME
 
 ![image](https://img-blog.csdnimg.cn/20190813213407581.jpg)
