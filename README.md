@@ -43,7 +43,7 @@ Patamon
 
 ## Frontend
 
-### OpenUI5
+### OpenUI5 (RESTful Service)
 
 RANG
 
@@ -80,7 +80,6 @@ RANG
 
 [https://github.com/rangwei/unicorn-swift](https://github.com/rangwei/unicorn-swift)
 
-
 ## 
 
 ### SAP HANA + Core Data Service
@@ -89,7 +88,7 @@ RANG
 
 [https://github.com/rangwei/unicorn-hana](https://github.com/rangwei/unicorn-hana)
 
-### OpenUI5 Using OData Service
+### OpenUI5 (OData Service)
 
 RANG 
 
