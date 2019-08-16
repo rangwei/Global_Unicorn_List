@@ -49,9 +49,6 @@ RANG
 
 [https://github.com/rangwei/unicorn-ui5-rest](https://github.com/rangwei/unicorn-ui5-rest)
 
-- MVP website
-
-http://49.234.230.70/webapp/
 
 ### React, AntD
 
