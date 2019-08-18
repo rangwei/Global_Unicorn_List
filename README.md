@@ -38,7 +38,7 @@ GET | http://49.234.230.70:3000/unicorns/ByteDance | Retrieves a specific unicor
 
 ## Frontend
 
-### OpenUI5 (RESTful Service)
+### OpenUI5
 
 RANG
 
