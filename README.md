@@ -32,7 +32,7 @@ RANG
 
 METHOD | URL | DESCRIPTION
 ---|---|---
-GET | hhttps://i061957trial-trial.apim1.hanatrial.ondemand.com/i061957trial/unicorns | Retrieves a list of unicorns
+GET | https://i061957trial-trial.apim1.hanatrial.ondemand.com/i061957trial/unicorns | Retrieves a list of unicorns
 GET | https://i061957trial-trial.apim1.hanatrial.ondemand.com/i061957trial/unicorns/ByteDance | Retrieves a specific unicorn by NAME
 
 
