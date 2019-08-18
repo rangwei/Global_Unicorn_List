@@ -35,13 +35,6 @@ METHOD | URL | DESCRIPTION
 GET | http://49.234.230.70:3000/unicorns | Retrieves a list of unicorns
 GET | http://49.234.230.70:3000/unicorns/ByteDance | Retrieves a specific unicorn by NAME
 
-### GO
-
-996是你们的福报年轻不加班什么时候才加班
-
-### Java
-
-Patamon
 
 ## Frontend
 
@@ -63,9 +56,6 @@ RANG
 
 [https://github.com/zhousheng9384/unicorn-angular](https://github.com/zhousheng9384/unicorn-angular)
 
-### React, AntD
-
-LLow
 
 ## Mobility
 
@@ -89,20 +79,13 @@ RANG
 
 [https://github.com/rangwei/unicorn-swift](https://github.com/rangwei/unicorn-swift)
 
-## 
 
-### SAP HANA + Core Data Service
-
-RANG 
-
-[https://github.com/rangwei/unicorn-hana](https://github.com/rangwei/unicorn-hana)
-
-### OpenUI5 (OData Service)
+## SAP Cloud Platform Programming Model
 
 RANG 
 
-[https://github.com/rangwei/unicorn-ui](https://github.com/rangwei/unicorn-ui)
+[SAP HANA + Core Data Service](https://github.com/rangwei/unicorn-hana)
 
+[OpenUI5](https://github.com/rangwei/unicorn-ui)
 
-
-
+[SAP Portal](https://flpnwc-f5c38b15f.dispatcher.cn1.hana.ondemand.com/sites?siteId=1e1434c1-274f-43ce-b596-41970a4ba2e0#Marketing-Display)
