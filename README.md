@@ -32,8 +32,8 @@ RANG
 
 METHOD | URL | DESCRIPTION
 ---|---|---
-GET | http://49.234.230.70:3000/unicorns | Retrieves a list of unicorns
-GET | http://49.234.230.70:3000/unicorns/ByteDance | Retrieves a specific unicorn by NAME
+GET | hhttps://i061957trial-trial.apim1.hanatrial.ondemand.com/i061957trial/unicorns | Retrieves a list of unicorns
+GET | https://i061957trial-trial.apim1.hanatrial.ondemand.com/i061957trial/unicorns/ByteDance | Retrieves a specific unicorn by NAME
 
 
 ## Frontend
