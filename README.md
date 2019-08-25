@@ -5,7 +5,7 @@
 ## Think Big, Start Small, Move Fast!
 ## NEVER STOP EXPLORING!
 
-## PROJECT INTRODUCTION
+## 项目介绍
 全球独角兽数量创新高，中美比重持续提升。据CB Insight数据统计显示，2013年至2018年12月31日，全球独角兽总数达到313家。按地域划分，同期对比，排名前五国家名次不变，依次为美国、中国（包括中国香港）、英国、印度和韩国，数量分别为151家、88家、15家、14家、7家。从占比来看，中美两国依然引领全球独角兽且影响力加强，全球占比76.3％，较2017年同期占比提升0.4个百分点。
 
 中美霸占超级独角兽，占比超八成。按定义，在独角兽的基础上，估值超过100亿美元的初创企业被称作超级独角兽。基于此，2018年全球共有22家企业被列入阵营，其中，蚂蚁金服以高达1500亿美元估值排为第一。从国家和地区来看，美国和中国数量最多，分别为12家和7家，占比86.4％，其余为英国、印度和新加坡，数量各为一家。
@@ -56,14 +56,6 @@ RANG
 
 * [React](https://github.com/rangwei/unicorns-react)
 
-### OpenUI5
-
-RANG
-
-* [OpenUI5](https://github.com/rangwei/unicorn-ui5-rest)
-
-* [OpenUI5-fiori2](https://github.com/rangwei/unicorn-ui5-fiori2)
-
 ### Flutter for Web
 
 广州-rhyme-接外包
@@ -93,14 +85,3 @@ RANG
 RANG
 
 * [Swift](https://github.com/rangwei/unicorn-swift)
-
-
-## SAP Cloud Platform
-
-RANG 
-
-* [SAP HANA + Core Data Service](https://github.com/rangwei/unicorn-hana)
-
-* [OpenUI5](https://github.com/rangwei/unicorn-ui)
-
-* [SAP Portal](https://flpnwc-f5c38b15f.dispatcher.cn1.hana.ondemand.com/sites?siteId=1e1434c1-274f-43ce-b596-41970a4ba2e0#Marketing-Display)
