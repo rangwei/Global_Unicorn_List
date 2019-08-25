@@ -22,13 +22,21 @@
 
 * [MongoDB + Python](https://github.com/mago960806/unicorn-python)
 
+* Testing API:
+
+METHOD | URL | DESCRIPTION
+---|---|---
+GET | http://49.234.230.70:8888/api/v1/unicorns/ | Retrieves a list of unicorns
+GET | http://49.234.230.70:8888/api/v1/unicorns/page=1 | Retrieves list by page
+GET | http://49.234.230.70:8888/api/v1/unicorns/page=2&page_size=100 | Retrieves list by page and number
+
 ### Node.js + Express
 
 RANG 
 
 * [Node.js + Express](https://github.com/rangwei/unicorn-node)
 
-- Testing API:
+* Testing API:
 
 METHOD | URL | DESCRIPTION
 ---|---|---
