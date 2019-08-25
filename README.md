@@ -1,4 +1,4 @@
-![image](https://img-blog.csdnimg.cn/20190813213407581.jpg)
+![image](https://github.com/rangwei/Global_Unicorn_List/blob/master/logos/unicorn.jpg)
 
 # Global Unicorn List App Project
 
@@ -48,11 +48,15 @@ GET | https://i061957trial-trial.apim1.hanatrial.ondemand.com/i061957trial/unico
 
 ### Angular + AntD
 
+<img width="100" height="100" src="https://github.com/rangwei/Global_Unicorn_List/blob/master/logos/angular.png"/>
+
 全体成员
 
 * [Angular](https://github.com/zhousheng9384/unicorn-angular)
 
 ### Vue.js + iView
+
+<img width="100" height="100" src="https://github.com/rangwei/Global_Unicorn_List/blob/master/logos/vue.png"/>
 
 我头像是哪部电影 
 
@@ -60,11 +64,15 @@ GET | https://i061957trial-trial.apim1.hanatrial.ondemand.com/i061957trial/unico
 
 ### React + UI5 WebComponent
 
+<img width="100" height="100" src="https://github.com/rangwei/Global_Unicorn_List/blob/master/logos/react.png"/>
+
 RANG
 
 * [React](https://github.com/rangwei/unicorns-react)
 
 ### Flutter for Web
+
+<img width="100" height="100" src="https://github.com/rangwei/Global_Unicorn_List/blob/master/logos/flutter.jpg"/>
 
 广州-rhyme-接外包
 
@@ -73,6 +81,8 @@ RANG
 ## Mobility
 
 ### Flutter
+
+<img width="100" height="100" src="https://github.com/rangwei/Global_Unicorn_List/blob/master/logos/flutter.jpg"/>
 
 再也不喝一口碳酸饮料
 
@@ -84,11 +94,15 @@ RANG
 
 ### Android
 
+<img width="100" height="100" src="https://github.com/rangwei/Global_Unicorn_List/blob/master/logos/android.jpg"/>
+
 沐风
 
 * [Android](https://github.com/Moosphan/Unicorn-android)
 
 ### Swift
+
+<img width="100" height="100" src="https://github.com/rangwei/Global_Unicorn_List/blob/master/logos/swift.png"/>
 
 RANG
 
