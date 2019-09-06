@@ -78,6 +78,8 @@ RANG
 
 * [Flutter web](https://github.com/rhymelph/unicorn-fu)
 
+* [Angular-Dart](https://github.com/rhymelph/unicorn-agldart)
+
 ## Mobility
 
 ### Flutter
