@@ -28,6 +28,12 @@ RANG
 
 * [Node.js + Express](https://github.com/rangwei/unicorn-node)
 
+### Sails.js
+
+RANG
+
+* [Sails.js](https://github.com/rangwei/unicorns-sails)
+
 ## Frontend
 
 ### Angular + AntD
@@ -52,7 +58,13 @@ RANG
 
 RANG
 
-* [React](https://github.com/rangwei/unicorns-react)
+* [React + UI5](https://github.com/rangwei/unicorns-react)
+
+### React + Bootstrap
+
+RANG
+
+* [React+Bootstrap](https://github.com/rangwei/unicorns-react-bootstrap)
 
 ### Flutter for Web
 
